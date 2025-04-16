@@ -10,7 +10,7 @@ This sample app demonstrates the integration of various popular Android tools an
 
 ## Description
 
-This sample application exhibits the use of the following libraries and features:
+This application exhibits the use of the following libraries and features:
 
 - [Compose](https://developer.android.com/jetpack/compose): Declarative UI framework
 - [Material design](https://material.io/design)
