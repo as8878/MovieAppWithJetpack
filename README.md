@@ -1,8 +1,6 @@
-# Compose-sample - Modern Android Architecture Sample App using Jetpack Compose
+# Movie App With Jetpack Compose
 
 Compose-sample is a sample project showcasing a modern approach to Android app development utilizing the Jetpack Compose UI Framework.
-
-![Demo GIF](https://i.imgur.com/HMleUvA.gif)
 
 ## Screenshots
 
@@ -28,5 +26,3 @@ This sample application exhibits the use of the following libraries and features
 - MVVM for the presentation layer
 - [Android Architecture components](https://developer.android.com/topic/libraries/architecture) ([ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel), [Navigation](https://developer.android.com/jetpack/androidx/releases/navigation))
 - [Android KTX](https://developer.android.com/kotlin/ktx): Jetpack Kotlin extensions
-
-This project serves as a comprehensive example of implementing modern Android app architecture leveraging the power of Jetpack Compose and associated libraries.
